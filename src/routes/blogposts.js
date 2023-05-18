@@ -1,0 +1,1 @@
+https://public-example-assets.s3.eu-west-1.amazonaws.com/posts.json

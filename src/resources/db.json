@@ -1,0 +1,1588 @@
+{
+  "posts": {
+    "total_records": 93,
+    "items": [
+      {
+        "id": "1",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "2",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "3",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "4",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "5",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "6",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "10",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "20",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "30",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "40",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "50",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "60",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "11",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "21",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "31",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "41",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "51",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "61",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "12",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "22",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "32",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "42",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "52",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "62",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "13",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "23",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "33",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "43",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "53",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "63",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "14",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "24",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "34",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "44",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "54",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "64",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "15",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "25",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "35",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "45",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "55",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "65",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "16",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "26",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "36",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "46",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "56",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "66",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "17",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "27",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "37",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "47",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "57",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "67",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "18",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "28",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "38",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "48",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "58",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "68",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "19",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "29",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "39",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "49",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "59",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "69",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "91",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "92",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "93",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "94",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "95",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "96",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "81",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "82",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "83",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "84",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "85",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "86",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "71",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "72",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "73",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "74",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "75",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "76",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "111",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "112",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "113",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      },
+      {
+        "id": "114",
+        "title": "Berghain: most likely you'll be bounced",
+        "content_text": "Thormann and Teufele became party promoters in the 1990s, hosting a male-only fetish club night called Snax, which launched in 1992 at Bunker.[5] In 1999 they founded their first club, Ostgut, in a former railway repair depot in Friedrichshain. Unlike Snax, the club was open to the general public. According to Deutsche Welle, Ostgut, \"known for unique parties and boundless freedoms, sexual and otherwise, is considered to have paved the way for Berghain.\" Ostgut closed in January 2003, with the building slated for demolition and later replaced by a large indoor arena, the O2 World Berlin (since 2015: Mercedes-Benz Arena).",
+        "summary": "Berghain (German: [bÉ›ÊkhaÉªn]) is a nightclub in Berlin, Germany. It is named after its location near the border between Kreuzberg and Friedrichshain in Berlin, and is a short walk from Berlin Ostbahnhof main line railway station.[2] Founded in 2004 by friends Norbert Thormann and Michael Teufele,[3] it has since become one of the world's most famous clubs, and has been called the \"world capital of techno.\"",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article4.jpg",
+        "date_published": "2023-04-01T06:22:00Z",
+        "total_comments": 2,
+        "likes": 777,
+        "minutes_to_read": 4,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["berlin", "berghain"]
+      },
+      {
+        "id": "115",
+        "title": "LIVE REVIEW: Pertubator @ O2 Arena",
+        "content_text": "Perturbatorâ€™s show in Stockholm registered a sold-out audience as many others did on this tour of the French musician. The Debaser, a venue with a capacity of around 800 people, was incredibly crowded and, by the time the headlinerâ€™s show started, it was hardly possible to move. While Synthwave is a sub-genre of Electronic music, its sound breached into the hearts of many metalheads, bringing artists like Perturbator and Carpenter Brut to many Metal festivals. Itâ€™s no surprise, then, that a large part of the audience is wearing t-shirts of Metal bands and sporting long hair.",
+        "summary": "The godfather of synthwave takes us to dark territories",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article5.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 13,
+        "likes": 70,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["O2", "perturbator", "live", "synthwave"]
+      },
+      {
+        "id": "116",
+        "title": "Welcome to Silent Hill!",
+        "content_text": "Silent Hill (Japanese: ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ’ãƒ«, Hepburn: Sairento Hiru) is a horror anthology media franchise centered on a series of survival horror games created by Keiichiro Toyama and published by Konami. The first four video games in the series, Silent Hill, Silent Hill 2, Silent Hill 3 and Silent Hill 4: The Room, were developed by an internal group called Team Silent, a development staff within former Konami subsidiary Konami Computer Entertainment Tokyo.",
+        "summary": "The plots of the installments in the Silent Hill series, except Shattered Memories and The Room, share a common setting: the foggy rural American town of Silent Hill, which is a fictional location set in the northeastern United States.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article6.jpg",
+        "date_published": "2023-0-05T22:30:00Z",
+        "total_comments": 5,
+        "likes": 64,
+        "minutes_to_read": 3,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["silent", "hill", "family trip"]
+      },
+      {
+        "id": "221",
+        "title": "REVIEW: Polka Fest was awesome",
+        "content_text": "With live Polka music from the best Polka Bands in America, this festival is a real treat for Polka fans. Food vendors offer Beer, Polish Food, Ribs, Hotdogs, Popcorn and so much more. Kids will enjoy games, while adults will indulge in the unique atmosphere that only Polka can create.This is one of very few Polka Festivals left in the United States. The 40th annual Cedar Polka Fest kicks off on Thursday, August 24th, 2023 in Cedar under the big tent. The Polka Festival has become a signature event in Leelanau. The Cedar Polka Festival has grown into one of the largest and best events for Polka music and attracts enthusiasts from near and far.",
+        "summary": "The Cedar Polka Fest is an annual festival celebrating the towns rich Polish history. Lasting 4 days and nights, nearly 10,000 people descend into town for family fun.  Join us to eat, drink, and dance the nights away.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article1.jpg",
+        "date_published": "2023-01-01T05:30:00Z",
+        "total_comments": 1,
+        "likes": 65,
+        "minutes_to_read": 2,
+        "author": {
+          "name": "Leila Waddell",
+          "url": "mailto:leila.waddell@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author1.jpg"
+        },
+        "tags": ["fun", "polka", "summer"]
+      },
+      {
+        "id": "222",
+        "title": "Niagara falls: an unforgettable trip",
+        "content_text": "Niagara Falls (/naÉªËˆÃ¦É¡É™rÉ™/) is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries.[1] It is also known as the Canadian Falls.The smaller American Falls and Bridal Veil Falls lie within the United States. Bridal Veil Falls is separated from Horseshoe Falls by Goat Island and from American Falls by Luna Island, with both islands situated in New York.",
+        "summary": "Formed by the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls have the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 m (160 ft).",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article2.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 2,
+        "likes": 156,
+        "minutes_to_read": 5,
+        "author": {
+          "name": "Alan Bennet",
+          "url": "mailto:alan.bennet@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author3.jpg"
+        },
+        "tags": ["day", "niagara falls", "heavy"]
+      },
+      {
+        "id": "223",
+        "title": "Burning Man: look at these rich people tying to be relevant",
+        "content_text": "The event originated on June 22, 1986, on Baker Beach in San Francisco as a small function organized by Larry Harvey and Jerry James, the builders of the first Man. It has since been held annually, spanning the nine days leading up to and including Labor Day. Over the event's history, attendance has generally increased. In 2019, 78,850 people participated in the event. In 2021, the unofficial event had an estimated 20,000 attendees.",
+        "summary": "Burning Man is an event focused on community, art, self-expression, and self-reliance held annually in the western United States. The name of the event comes from its culminating ceremony: the symbolic burning of a large wooden effigy, referred to as the Man, that occurs on the penultimate night of Burning Man, which is the Saturday evening before Labor Day.",
+        "image": "https://public-example-assets.s3.eu-west-1.amazonaws.com/article3.jpg",
+        "date_published": "2023-01-01T09:30:00Z",
+        "total_comments": 6,
+        "likes": 6,
+        "minutes_to_read": 6,
+        "author": {
+          "name": "Leah Hirsig",
+          "url": "mailto:leah.hirsig@example.org",
+          "avatar": "https://public-example-assets.s3.eu-west-1.amazonaws.com/author2.jpg"
+        },
+        "tags": ["burning man", "festival", "rich kids"]
+      }
+    ]
+  }
+}
