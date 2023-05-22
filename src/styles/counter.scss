@@ -1,0 +1,22 @@
+@import "colors";
+
+.counter {
+  position: absolute;
+  z-index: 9;
+  top: 16px;
+  right: 16px;
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 12px;
+  padding: 6px 12px;
+  border-radius: 16px;
+  background-color: $secondary-color;
+  color: white;
+  font-size: clamp(0.75rem, 0.875rem, 1rem);
+  & > div {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    gap: 8px;
+  }
+}

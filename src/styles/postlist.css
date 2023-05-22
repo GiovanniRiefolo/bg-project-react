@@ -1,9 +1,0 @@
-article {
-  display: flex;
-  flex-flow: column nowrap;
-}
-
-article figure {
-  width: 100%;
-}
-
