@@ -2,8 +2,9 @@ import { useEffect, useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import Counter from "./counter";
 
-import "../styles/postlist.css";
+import "../styles/postlist.scss";
 
 export default function PostList() {
   const [posts, setPosts] = useState([]);
@@ -37,12 +38,27 @@ export default function PostList() {
             <Col xs={6}>
               <article key={post.id}>
                 <figure>
+                  <Counter
+                    data-like={post.likes}
+                    data-comments={post.total_comments}
+                    data-time-to-read={post.minutes_to_read}
+                  />
                   <img src={post.image} />
-                  <h3>{post.title}</h3>
+                  <h2>{post.title}</h2>
                 </figure>
-                <p>{post.author.name}</p>
-                <img src={post.author.avatar} />
-                <p>{formatDate(post.date_published)}</p>
+                <div className="author">
+                  <a
+                    rel="author"
+                    href={post.author.url}
+                    className="author__avatar"
+                  >
+                    <figure>
+                      <img src={post.author.avatar} alt="" width="40" />
+                    </figure>
+                    <span>{post.author.name}</span>
+                  </a>
+                  <time>{formatDate(post.date_published)}</time>
+                </div>
                 <p>{post.summary}</p>
               </article>
             </Col>
