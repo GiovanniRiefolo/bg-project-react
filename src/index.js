@@ -6,6 +6,9 @@ import Root from "./routes/root";
 import Contact from "./routes/contact";
 // Error pages
 import Error404 from "./routes/404";
+// Styles
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles/global.css";
 
 const router = createBrowserRouter([
   {

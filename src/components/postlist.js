@@ -1,4 +1,9 @@
 import { useEffect, useState } from "react";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
+import "../styles/postlist.css";
 
 export default function PostList() {
   const [posts, setPosts] = useState([]);
@@ -26,20 +31,24 @@ export default function PostList() {
 
   return (
     <>
-      <section>
-        {posts.map((post) => (
-          <div key={post.id}>
-            <figure>
-              <img src={post.image} />
-              <h3>{post.title}</h3>
-            </figure>
-            <p>{post.author.name}</p>
-            <img src={post.author.avatar} />
-            <p>{formatDate(post.date_published)}</p>
-            <p>{post.summary}</p>
-          </div>
-        ))}
-      </section>
+      <Container>
+        <Row>
+          {posts.map((post) => (
+            <Col xs={6}>
+              <article key={post.id}>
+                <figure>
+                  <img src={post.image} />
+                  <h3>{post.title}</h3>
+                </figure>
+                <p>{post.author.name}</p>
+                <img src={post.author.avatar} />
+                <p>{formatDate(post.date_published)}</p>
+                <p>{post.summary}</p>
+              </article>
+            </Col>
+          ))}
+        </Row>
+      </Container>
     </>
   );
 }
