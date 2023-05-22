@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  width: 100%;
+}
+
+header .logo {
+  width: max-content;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+header nav {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 15px;
+}
