@@ -4,8 +4,14 @@
 - React
 - Bootstrap + React Bootstrap
 
-## Notes
-Json files are served with json-server package. To start fetching content run:
+## Initialization
+
+1. Run the project
+```
+npm run start
+```
+
+2. Run json-server to start fetching content run:
 ```
 node server.js
 ```

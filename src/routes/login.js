@@ -7,7 +7,6 @@ import Col from "react-bootstrap/Col";
 export default function Login() {
   // Set variables for error, submitted state, password and username
   const [errorMessage, setErrorMessage] = useState("");
-  const [isSubmitted, setIsSubmitted] = useState(false);
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
 
@@ -30,27 +29,29 @@ export default function Login() {
     event.preventDefault();
     console.log(event);
 
-    fetch("http://localhost:3030/users", {
+    fetch("http://localhost:3030/auth", {
       method: "POST",
       headers: {
         "Content-Type": "applcation/json"
       },
       body: JSON.stringify({username, password})
     })
-      .then((response) => response.json())
-      .then((data) => {
-        if(!localStorage.getItem('token')){
-          localStorage.setItem('token', data[0].token)
-          localStorage.setItem('refreshToken', data[0].refreshToken)
-        } else {
-          console.log('utente già loggato')
-        }
-        window.location = ('/')
-      })
-      .catch((error) => {
-        console.log(error.message);
-        setErrorMessage(error.message);
-      });
+    .then((response) => response.json())
+    .then((data) => {
+      console.log(data)
+      if(!localStorage.getItem('token')){
+        localStorage.setItem('token', data.token)
+        localStorage.setItem('refreshToken', data.refreshToken)
+        localStorage.setItem('username', data.username)
+      } else {
+        console.log('utente già loggato')
+      }
+     // window.location = ('/')
+    })
+    .catch((error) => {
+      console.log(error.message);
+      setErrorMessage(error.message);
+    });
   };
 
   return (

@@ -4,21 +4,17 @@ import { useEffect, useState } from "react";
 import "./../styles/header.scss";
 
 export default function Header() {
+
   const [username, setUsername] = useState("");
+  const [loggedUser, setLoggedUser] = useState(false)
 
-  const getUsername = () => {
-    if (localStorage.getItem("token")) {
-      fetch("/users", {
-        method: "GET",
-      })
-        .then((response) => response.json)
-        .then((data) => {
-          console.log(data[0]);
-        });
+  useEffect(() => {
+    if(localStorage.getItem('username')){
+      setUsername(localStorage.getItem('username'))
+      setLoggedUser(true)
     }
-  };
+  })
 
-  getUsername();
 
   return (
     <header>
@@ -27,9 +23,8 @@ export default function Header() {
         <div className="logo">
           <a href="/">Blog</a>
         </div>
-        <div>
-          <a href="/login">Login</a>
-          <p className="username"></p>
+        <div className="user">
+          {loggedUser ? <p className="username">{username}</p> : <a href="/login">Login</a>  }
         </div>
       </div>
 
