@@ -7,5 +7,5 @@
 ## Notes
 Json files are served with json-server package. To start fetching content run:
 ```
-yarn json-server --watch ./src/resources/db.json --port 3030
+node server.js
 ```

@@ -4,11 +4,12 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 // Routes
 import Root from "./routes/root";
 import Contact from "./routes/contact";
+import Login from "./routes/login";
 // Error pages
 import Error404 from "./routes/404";
 // Styles
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./styles/global.css";
+import "./styles/global.scss";
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,11 @@ const router = createBrowserRouter([
   {
     path: "/contact",
     element: <Contact />,
+    errorElement: <Error404 />,
+  },
+  {
+    path: "/login",
+    element: <Login />,
     errorElement: <Error404 />,
   },
 ]);

@@ -8,6 +8,7 @@ import "../styles/postlist.scss";
 
 export default function PostList() {
   const [posts, setPosts] = useState([]);
+  const [noposts, setNoPosts] = useState(false);
 
   useEffect(() => {
     fetch("http://localhost:3030/posts", {
@@ -18,7 +19,10 @@ export default function PostList() {
         console.log(data);
         setPosts(data.items);
       })
-      .catch((error) => console.log(error.message));
+      .catch((error) => {
+        console.log(error.message);
+        setNoPosts(true);
+      });
   }, []);
 
   const formatDate = (value) => {
@@ -30,13 +34,25 @@ export default function PostList() {
     });
   };
 
+  if (noposts) {
+    return (
+      <>
+        <Container>
+          <Row>
+            <p>Non ci sono ancora post disponibili!</p>
+          </Row>
+        </Container>
+      </>
+    );
+  }
+
   return (
     <>
       <Container>
         <Row>
           {posts.map((post) => (
-            <Col xs={6}>
-              <article key={post.id}>
+            <Col xs={12} lg={6} key={post.id}>
+              <article>
                 <figure>
                   <Counter
                     data-like={post.likes}
