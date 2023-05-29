@@ -1,5 +1,11 @@
 import { NavLink } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import Nav from 'react-bootstrap/Nav';
+
 
 import "./../styles/header.scss";
 
@@ -15,23 +21,52 @@ export default function Header() {
     }
   })
 
-
   return (
     <header>
-      <div>
-        <div></div>
-        <div className="logo">
-          <a href="/">Blog</a>
-        </div>
-        <div className="user">
-          {loggedUser ? <p className="username">{username}</p> : <a href="/login">Login</a>  }
-        </div>
-      </div>
-
-      <nav>
-        <a href="/">Home</a>
-        <a href="/contact">Contacts</a>
-      </nav>
+      <Container>
+        <Row>
+          <Col></Col>
+          <Col className="logo">
+            <a href="/">Blog</a>
+          </Col>
+          <Col className="user">
+            <div>
+              { loggedUser ?
+                <>
+                  <FontAwesomeIcon icon="fa-solid fa-face-smile" />
+                  <p className="username">Bentornato {username} <small>(<a href="/logout">Logout</a>)</small></p>
+                </> :
+                <>
+                <FontAwesomeIcon icon="fa-solid fa-user" />
+                <p>Ciao! <a href="/login">Accedi</a> o <a>Registrati</a></p>
+                </>
+                }
+            </div>
+          </Col>
+        </Row>
+        <Row>
+          <Nav>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/">Home</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/headers">Header Styles</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/posts">Post Fatures</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/tags">#Tag</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/authors">Authors</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link as={NavLink} to="/contact">Contact</Nav.Link>
+            </Nav.Item>
+          </Nav>
+        </Row>
+      </Container>
     </header>
   );
 }

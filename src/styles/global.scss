@@ -1,0 +1,36 @@
+@import "colors";
+@import "fonts";
+
+*{
+    font-family: Montserrat;
+}
+
+*::selection{
+    color: #ffffff;
+    background-color: $primary-color;
+}
+
+h1, h2, h3{
+    font-weight: 600;
+}
+
+p, li{
+    color: $primary-font;
+    font-weight: 400;
+
+    a{
+        color: $primary-color;
+
+        &:hover{
+            color: $secondary-color;
+        }
+
+    }
+}
+
+.page{
+    &__title{
+        margin: 48px 0 64px;
+        text-align: center;
+    }
+}

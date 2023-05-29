@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Counter from "./counter";
 
-import "../styles/postlist.scss";
+import "../styles/post_list.scss";
 
 export default function PostList() {
   const [posts, setPosts] = useState([]);
@@ -48,7 +48,7 @@ export default function PostList() {
 
   return (
     <>
-      <Container>
+      <Container className="post-list">
         <Row>
           {posts.map((post) => (
             <Col xs={12} lg={6} key={post.id}>

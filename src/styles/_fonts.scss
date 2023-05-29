@@ -1,5 +1,5 @@
 // Define custom font directory path
-$font-base-url: "/src/fonts";
+$font-base-url: "../../src/fonts";
 
 @mixin font-face(
     $name,
@@ -16,7 +16,7 @@ $font-base-url: "/src/fonts";
                 display: fallback;
                 stretch: 100%;
             }
-            src: local($name), url($font-base-url + "#{$directory}/" + $filename + ".ttf") format("truetype");
+            src: local($name), url($font-base-url + "/#{$directory}/" + $filename + ".ttf") format("truetype");
         }
 }
 

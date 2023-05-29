@@ -4,6 +4,10 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 // Routes
 import Root from "./routes/root";
 import Contact from "./routes/contact";
+import Posts from "./routes/posts";
+import Headers from "./routes/headers";
+import Tags from "./routes/tags";
+import Authors from "./routes/authors";
 import Login from "./routes/login";
 // Error pages
 import Error404 from "./routes/404";
@@ -20,6 +24,26 @@ const router = createBrowserRouter([
   {
     path: "/contact",
     element: <Contact />,
+    errorElement: <Error404 />,
+  },
+  {
+    path: "/posts",
+    element: <Posts />,
+    errorElement: <Error404 />,
+  },
+  {
+    path: "/tags",
+    element: <Tags />,
+    errorElement: <Error404 />,
+  },
+  {
+    path: "/authors",
+    element: <Authors />,
+    errorElement: <Error404 />,
+  },
+  {
+    path: "/headers",
+    element: <Headers />,
     errorElement: <Error404 />,
   },
   {
