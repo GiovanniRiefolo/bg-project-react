@@ -27,7 +27,7 @@ export default function Header() {
         <Row>
           <Col></Col>
           <Col className="logo">
-            <a href="/">Blog</a>
+            <a href="/">LOGO</a>
           </Col>
           <Col className="user">
             <div>

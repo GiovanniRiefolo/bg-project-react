@@ -1,5 +1,6 @@
 // Define custom font directory path
 $font-base-url: "../../src/fonts";
+$body-font-size:  clamp(1em, 2vw, 1.15em);
 
 @mixin font-face(
     $name,
@@ -21,3 +22,5 @@ $font-base-url: "../../src/fonts";
 }
 
 @include font-face('Montserrat', 'montserrat', 'Montserrat-VariableFont_wght', regular, 100 900);
+@include font-face('Josefin', 'josefin', 'JosefinSans-VariableFont_wght', regular, 100 900);
+

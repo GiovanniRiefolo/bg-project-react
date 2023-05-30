@@ -1,5 +1,9 @@
 import Header from "./../components/header";
 import PostList from "./../components/post_list";
+import PopularPosts from "../components/popular_posts";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
@@ -18,7 +22,17 @@ export default function Root() {
   return (
     <>
       <Header />
-      <PostList />
+      <Container>
+        <Row>
+          <Col lg={8}>
+          <PostList />
+          </Col>
+          <Col lg={4}>
+            <PopularPosts />
+          </Col>
+        </Row>
+      </Container>
+
     </>
   );
 }

@@ -14,13 +14,11 @@ export default function PostList() {
     fetch("http://localhost:3030/posts", {
       method: "GET",
     })
-      .then((response) => response.json())
-      .then((data) => {
-        console.log(data);
+      .then(response => response.json())
+      .then(data => {
         setPosts(data.items);
       })
       .catch((error) => {
-        console.log(error.message);
         setNoPosts(true);
       });
   }, []);

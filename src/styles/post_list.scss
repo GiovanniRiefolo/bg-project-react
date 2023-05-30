@@ -1,4 +1,5 @@
 @import "_colors.scss";
+@import "fonts";
 
 .post-list{
   article {
@@ -26,15 +27,19 @@
             left: 16px;
             right: 16px;
             width: 70%;
+            padding: 12px;
             background-color: white;
           }
 
     }
 
   & > p {
-      overflow: hidden;
-      text-overflow: ellipsis;
       display: -webkit-box;
+      padding: 0 32px;
+      color: rgba(0,0,0,.5);
+      text-overflow: ellipsis;
+      text-align: center;
+      overflow: hidden;
       -webkit-line-clamp: 2;
       line-clamp: 2; 
       -webkit-box-orient: vertical;
@@ -64,16 +69,16 @@
         }
 
     & figure {
-          width: 40px;
-          height: 40px;
+          width: 32px;
+          height: 32px;
           border-radius: 100%;
           overflow: hidden;
           margin: 0;
           box-shadow: 2px 2px 14px -4px rgba(0, 0, 0, 0.8);
 
           img {
-            min-width: 44px;
-            min-height: 44px;
+            min-width: 40px;
+            min-height: 40px;
             object-fit: cover;
             object-position: center center;
           }

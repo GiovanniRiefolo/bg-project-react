@@ -2,7 +2,7 @@
 @import "fonts";
 
 *{
-    font-family: Montserrat;
+    font-family: Josefin, sans-serif;
 }
 
 *::selection{
@@ -17,6 +17,8 @@ h1, h2, h3{
 p, li{
     color: $primary-font;
     font-weight: 400;
+    font-size: $body-font-size;
+    line-height: 1.618;
 
     a{
         color: $primary-color;
@@ -30,7 +32,10 @@ p, li{
 
 .page{
     &__title{
-        margin: 48px 0 64px;
+        margin: 0 0 64px;
         text-align: center;
+        text-decoration: 1px wavy underline $primary-color;
+        text-decoration-skip-ink: none;
+        text-underline-offset: 4px;
     }
 }
