@@ -4,6 +4,8 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
+import "../styles/login.scss";
+
 export default function Login() {
   // Set variables for error, submitted state, password and username
   const [errorMessage, setErrorMessage] = useState("");
@@ -59,7 +61,7 @@ export default function Login() {
       <Header />
       {renderErrorMessage()}
 
-      <form onSubmit={submitForm}>
+      <form onSubmit={submitForm} className="login-form">
         <Container>
           <Row>
             <label htmlFor="username">Nome utente</label>
@@ -70,6 +72,8 @@ export default function Login() {
               onChange={usernameChange}
               required
             />
+          </Row>
+          <Row>
             <label htmlFor="password">Password</label>
             <input
               id="password"
@@ -78,6 +82,8 @@ export default function Login() {
               onChange={passwordChange}
               required
             />
+          </Row>
+          <Row>
             <button type="submit">Login</button>
           </Row>
         </Container>
