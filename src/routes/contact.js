@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import Header from "./../components/header";
 import PageTitle from "../components/page_title";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -8,12 +9,24 @@ import Col from "react-bootstrap/Col";
 import "../styles/contact.scss";
 
 export default function Contact() {
+  const [name, setName] = useState("");
+
+  const thankYou = event => {
+    event.preventDefault();
+    let _name =
+      event.target.name.value +
+      " " +
+      event.target.surname.value;
+    setName(name);
+    alert("Grazie " + _name + " per il tuo feedback!");
+  }
+
   return (
     <>
       <Header />
       <PageTitle title="Contacts" />
 
-      <form className="contact-form">
+      <form className="contact-form" onSubmit={thankYou}>
         <Container>
           <Row>
             <Col>
@@ -24,11 +37,11 @@ export default function Contact() {
           </Row>
           <Row>
             <Col>
-              <label htmlFor="nome">Name</label>
+              <label htmlFor="name">Name</label>
               <input type="text" id="name" placeholder="Name" />
             </Col>
             <Col>
-              <label htmlFor="nome">Surname</label>
+              <label htmlFor="surname">Surname</label>
               <input type="text" id="surname" placeholder="Surname" />
             </Col>
           </Row>
@@ -68,7 +81,11 @@ export default function Contact() {
             </Col>
           </Row>
           <Row>
-            <button type="submit"><span><span>Submit now</span></span></button>
+            <button type="submit">
+              <span>
+                <span>Submit now</span>
+              </span>
+            </button>
           </Row>
         </Container>
       </form>

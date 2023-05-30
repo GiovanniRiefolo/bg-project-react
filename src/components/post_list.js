@@ -57,7 +57,7 @@ export default function PostList() {
                     data-comments={post.total_comments}
                     data-time-to-read={post.minutes_to_read}
                   />
-                  <img src={post.image} />
+                  <img src={post.image} alt="" width="410" loading="lazy"/>
                   <h2>{post.title}</h2>
                 </figure>
                 <div className="author">
@@ -67,7 +67,7 @@ export default function PostList() {
                     className="author__avatar"
                   >
                     <figure>
-                      <img src={post.author.avatar} alt="" width="40" />
+                      <img src={post.author.avatar} alt="" width="40" loading="lazy" />
                     </figure>
                     <span>{post.author.name}</span>
                   </a>
