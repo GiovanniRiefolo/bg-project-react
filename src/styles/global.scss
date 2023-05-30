@@ -1,41 +1,43 @@
 @import "colors";
 @import "fonts";
 
-*{
-    font-family: Josefin, sans-serif;
+* {
+  font-family: Josefin, sans-serif;
 }
 
-*::selection{
-    color: #ffffff;
-    background-color: $primary-color;
+*::selection {
+  color: #ffffff;
+  background-color: $primary-color;
 }
 
-h1, h2, h3{
-    font-weight: 600;
+h1,
+h2,
+h3 {
+  font-weight: 600;
 }
 
-p, li{
-    color: $primary-font;
-    font-weight: 400;
-    font-size: $body-font-size;
-    line-height: 1.618;
+p,
+li {
+  color: $primary-font;
+  font-weight: 400;
+  font-size: $body-font-size;
+  line-height: 1.618;
 
-    a{
-        color: $primary-color;
+  a {
+    color: $primary-color;
 
-        &:hover{
-            color: $secondary-color;
-        }
-
+    &:hover {
+      color: $secondary-color;
     }
+  }
 }
 
-.page{
-    &__title{
-        margin: 0 0 64px;
-        text-align: center;
-        text-decoration: 1px wavy underline $primary-color;
-        text-decoration-skip-ink: none;
-        text-underline-offset: 4px;
-    }
+.page {
+  &__title {
+    margin: 0 0 64px;
+    text-align: center;
+    text-decoration: 1px wavy underline $primary-color;
+    text-decoration-skip-ink: none;
+    text-underline-offset: 4px;
+  }
 }

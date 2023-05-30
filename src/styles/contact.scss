@@ -2,85 +2,84 @@
 @import "@fortawesome/fontawesome-free/css/fontawesome.min.css";
 @import "@fortawesome/fontawesome-free/css/regular.min.css";
 
-.contact-form{
-    max-width: 650px;
-    margin: 0 auto;
-    padding: 32px;
-    border: 1px solid rgba(0,0,0,.3);
-    
-    & .row{
-        margin: 0 0 16px;
-    }
-    
-    & label{
-        width: 100%;
-    }
+.contact-form {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 32px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
 
-    & input[type="text"],
-    & input[type="email"],
-    & select{
-        padding: 8px;
-        height: 48px;
-        width: 100%;
-        border: 1px solid rgba(0,0,0,.5);
-    }
+  & .row {
+    margin: 0 0 16px;
+  }
 
-    & button[type="submit"]{
-        padding: 16px;
-        border: none;
-        background-color: $primary-color;
-        color: white;
-        font-size: clamp(1.25em, 8vw, 1.5em) ;
-        &:hover{
-            box-shadow: 0 0 0 0 $secondary-color;
+  & label {
+    width: 100%;
+  }
+
+  & input[type="text"],
+  & input[type="email"],
+  & select {
+    padding: 8px;
+    height: 48px;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+
+  & button[type="submit"] {
+    padding: 16px;
+    border: none;
+    background-color: $primary-color;
+    color: white;
+    font-size: clamp(1.25em, 8vw, 1.5em);
+    &:hover {
+      box-shadow: 0 0 0 0 $secondary-color;
+    }
+  }
+
+  &__checkbox {
+    position: relative;
+    & [type="checkbox"] {
+      width: 0;
+      overflow: hidden;
+      & ~ label {
+        padding-left: 32px;
+        cursor: pointer;
+
+        &::before {
+          position: absolute;
+          top: 2px;
+          left: 0;
+          display: block;
+          font: var(--fa-font-regular);
+          content: "\f111";
         }
-    }
-
-    &__checkbox{
-        position: relative;
-        & [type="checkbox"]{
-            width: 0;
-            overflow: hidden;
-            & ~ label{
-                padding-left: 32px;
-                cursor: pointer;
-                
-                &::before{
-                    position: absolute;
-                    top: 2px;
-                    left: 0;
-                    display: block;
-                    font: var(--fa-font-regular);
-                    content: "\f111"
-                }
-            }
-            &:checked ~ label{
-                &::before{
-                    display: block;
-                    color: $primary-color;
-                    font: var(--fa-font-regular);
-                    content: "\f058"
-                }
-                & svg{
-                    transform-origin: center center;
-                    transform: rotate(0);
-                    animation:{
-                        name: rotate;
-                        duration: 5s;
-                        iteration-count: infinite;
-                    }
-                }
-            }
+      }
+      &:checked ~ label {
+        &::before {
+          display: block;
+          color: $primary-color;
+          font: var(--fa-font-regular);
+          content: "\f058";
         }
-   
+        & svg {
+          transform-origin: center center;
+          transform: rotate(0);
+          animation: {
+            name: rotate;
+            duration: 5s;
+            iteration-count: infinite;
+          }
+        }
+      }
     }
+  }
 }
 
 @keyframes rotate {
-    from{
-        transform: rotate(0);
-    }
-    to{
-        transform: rotate(359deg);
-    }
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }

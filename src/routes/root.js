@@ -25,14 +25,13 @@ export default function Root() {
       <Container>
         <Row>
           <Col lg={8}>
-          <PostList />
+            <PostList />
           </Col>
           <Col lg={4}>
             <PopularPosts />
           </Col>
         </Row>
       </Container>
-
     </>
   );
 }

@@ -32,35 +32,36 @@ export default function Login() {
     fetch("http://localhost:3030/auth", {
       method: "POST",
       headers: {
-        "Content-Type": "applcation/json"
+        "Content-Type": "applcation/json",
       },
-      body: JSON.stringify({username, password})
+      body: JSON.stringify({ username, password }),
     })
-    .then((response) => response.json())
-    .then((data) => {
-      console.log(data)
-      if(!localStorage.getItem('token')){
-        localStorage.setItem('token', data.token)
-        localStorage.setItem('refreshToken', data.refreshToken)
-        localStorage.setItem('username', data.username)
-      } else {
-        console.log('utente già loggato')
-      }
-     // window.location = ('/')
-    })
-    .catch((error) => {
-      console.log(error.message);
-      setErrorMessage(error.message);
-    });
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data);
+        if (!localStorage.getItem("token")) {
+          localStorage.setItem("token", data.token);
+          localStorage.setItem("refreshToken", data.refreshToken);
+          localStorage.setItem("username", data.username);
+        } else {
+          console.log("utente già loggato");
+        }
+        window.location = "/";
+      })
+      .catch((error) => {
+        console.log(error.message);
+        setErrorMessage(error.message);
+      });
   };
 
   return (
     <>
       <Header />
-      <Container>
-        <Row>
-          {renderErrorMessage()}
-          <form onSubmit={submitForm}>
+      {renderErrorMessage()}
+
+      <form onSubmit={submitForm}>
+        <Container>
+          <Row>
             <label htmlFor="username">Nome utente</label>
             <input
               id="username"
@@ -78,9 +79,9 @@ export default function Login() {
               required
             />
             <button type="submit">Login</button>
-          </form>
-        </Row>
-      </Container>
+          </Row>
+        </Container>
+      </form>
     </>
   );
 }

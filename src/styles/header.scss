@@ -14,59 +14,58 @@ header {
     text-transform: uppercase;
     text-align: center;
 
-    & a{
+    & a {
       color: black;
       font-family: Montserrat, Josefin, sans-serif;
       font-weight: 800;
       text-decoration: none;
 
-      &:hover{
+      &:hover {
         color: $primary-color;
       }
     }
   }
 
   & .nav {
-      display: flex;
-      flex-flow: row nowrap;
-      justify-content: center;
-      gap: 15px;
-      margin: 16px 0 32px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 16px 0 32px;
 
-      & a {
-        color: black;
-        font:{
-          weight: 400;
-          size: $body-font-size;
-        }
-
-        &:hover{
-          color: #646464;
-        }
-
-        &.active{
-          color: $primary-color;
-        }
+    & a {
+      color: black;
+      font: {
+        weight: 400;
+        size: $body-font-size;
       }
+
+      &:hover {
+        color: #646464;
+      }
+
+      &.active {
+        color: $primary-color;
+      }
+    }
   }
 
-  & .user{
-
-    & div{
+  & .user {
+    & div {
       display: flex;
       flex-flow: row nowrap;
       align-items: center;
       justify-content: flex-end;
       gap: 8px;
 
-      & p{
+      & p {
         margin: 4px 0 0;
         font-size: 1rem;
         line-height: 1.4;
       }
 
       & svg {
-        & path{
+        & path {
           fill: $secondary-color;
         }
       }
