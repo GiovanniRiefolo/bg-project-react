@@ -68,7 +68,7 @@ export default function Contact() {
             </Col>
           </Row>
           <Row>
-            <button type="submit">Submit now</button>
+            <button type="submit"><span><span>Submit now</span></span></button>
           </Row>
         </Container>
       </form>

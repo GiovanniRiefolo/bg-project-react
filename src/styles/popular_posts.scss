@@ -1,6 +1,9 @@
 @import "colors";
 
 aside {
+  position: sticky;
+  top: 64px;
+  
   & h2 {
     font-size: clamp(1.25em, 6vw, 1.5em);
     & span {
