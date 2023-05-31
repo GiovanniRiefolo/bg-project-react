@@ -19,7 +19,7 @@ export default function Header() {
     }
   });
 
-  function logout (){
+  const logout = () => {
     localStorage.removeItem('token')
     localStorage.removeItem('refreshToken')
     localStorage.removeItem('username')
@@ -41,7 +41,7 @@ export default function Header() {
                   <p className="username">
                     Bentornato {username}{" "}
                     <small>
-                      (<a href="/login" onClick={logout()}>Logout</a>)
+                      (<a href="/login" onClick={logout}>Logout</a>)
                     </small>
                   </p>
                 </>

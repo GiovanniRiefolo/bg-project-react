@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from "react";
+import {useEffect, useState, useRef} from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -8,127 +8,135 @@ import loadingSvg from "../images/loading.svg";
 import "../styles/post_list.scss";
 
 export default function PostList() {
-  const [posts, setPosts] = useState([]);
-  const [noposts, setNoPosts] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
+    const [posts, setPosts] = useState([]);
+    const [noposts, setNoPosts] = useState(false);
+    const [isLoading, setIsLoading] = useState(false);
 
-  // TODO: create a temp variable to get the current max index of posts
-  // then use it to slice the posts (prevIndex, nextIndex). Then concatenate
-  // the array (or push) to the current posts array.
+    // TODO: create a temp variable to get the current max index of posts
+    // then use it to slice the posts (prevIndex, nextIndex). Then concatenate
+    // the array (or push) to the current posts array.
 
-  const [currentPosts, setCurrentPosts] = useState(6);
+    const [currentPosts, setCurrentPosts] = useState(6);
 
-  useEffect(() => {
-    fetchPosts(0, currentPosts);
+    useEffect(() => {
+        fetchPosts(0, currentPosts);
 
-    let observer = new IntersectionObserver(loadMorePosts, {
-      root: null,
-      rootMargin: "0px",
-      threshold: 1.0,
-    });
-    
-    observer.observe(document.querySelector("#postListEnd"));
+        let observer = new IntersectionObserver(loadMorePosts, {
+            root: null,
+            rootMargin: "0px",
+            threshold: 1.0,
+        });
 
-  }, []);
+        observer.observe(document.querySelector("#postListEnd"));
 
-  const fetchPosts = (start, end) => {
-    setIsLoading(true);
-    const randomTime = Math.floor(Math.random() * 2000) + 1000;
+    }, []);
 
-    fetch("http://localhost:3030/posts", { method: "GET" })
-      .then((response) => response.json())
-      .then((data) => {
-        setTimeout(() => {
-          setPosts(data.items.slice(start, end));
-          setIsLoading(false);
-        }, randomTime);
-      })
-      .catch((error) => {
-        setNoPosts(true);
-      });
-  };
+    const fetchPosts = (start, end) => {
+        setIsLoading(true);
+        const randomTime = Math.floor(Math.random() * 2000) + 1000;
 
-  const loadMorePosts = (entries) => {
-    
-    let tempIndex
-    if(entries[0].isIntersecting && currentPosts < posts.length){
-      tempIndex = currentPosts
-      setCurrentPosts(currentPosts + 6)
+        fetch("http://localhost:3030/posts", {method: "GET"})
+            .then((response) => response.json())
+            .then((data) => {
+                setTimeout(() => {
+                    setPosts(data.items.slice(start, end));
+                    setIsLoading(false);
+                }, randomTime);
+            })
+            .catch((error) => {
+                setNoPosts(true);
+            });
+    };
+
+    const loadMorePosts = (entries) => {
+
+        let tempIndex
+        if (entries[0].isIntersecting && currentPosts < posts.length) {
+            tempIndex = currentPosts
+            setCurrentPosts(currentPosts + 6)
+        }
+        fetchPosts(tempIndex, currentPosts)
+    };
+
+    const formatDate = (value) => {
+        let _date = new Date(value);
+        return _date.toLocaleDateString("en-EN", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+        });
+    };
+
+    if (isLoading) {
+        return (
+            <>
+                <Container>
+                    <Row>
+                        <Col>
+                            <div className="post-list__loader">
+                                <img src={loadingSvg} alt="" width="32"/>
+                                <p>Loading posts...</p>
+                            </div>
+                        </Col>
+                    </Row>
+                </Container>
+            </>
+        );
     }
-    fetchPosts(tempIndex, currentPosts)
-  };
 
-  const formatDate = (value) => {
-    let _date = new Date(value);
-    return _date.toLocaleDateString("en-EN", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
-  };
+    if (noposts) {
+        return (
+            <>
+                <Container>
+                    <Row>
+                        <p>There are no available posts!</p>
+                    </Row>
+                </Container>
+            </>
+        );
+    }
 
-  if (isLoading) {
     return (
-      <>
-        <img src={loadingSvg} alt="" width="32" />
-        <p>Caricamento post...</p>
-      </>
+        <>
+            <Container className="post-list">
+                <Row>
+                    {posts.map((post) => (
+                        <Col xs={12} lg={6} key={post.id}>
+                            <article>
+                                <figure>
+                                    <Counter
+                                        data-like={post.likes}
+                                        data-comments={post.total_comments}
+                                        data-time-to-read={post.minutes_to_read}
+                                    />
+                                    <img src={post.image} alt="" width="410" loading="lazy"/>
+                                    <h2>{post.title}</h2>
+                                </figure>
+                                <div className="author">
+                                    <a
+                                        rel="author"
+                                        href={post.author.url}
+                                        className="author__avatar"
+                                    >
+                                        <figure>
+                                            <img
+                                                src={post.author.avatar}
+                                                alt=""
+                                                width="40"
+                                                loading="lazy"
+                                            />
+                                        </figure>
+                                        <span>{post.author.name}</span>
+                                    </a>
+                                    <time>{formatDate(post.date_published)}</time>
+                                </div>
+                                <p>{post.summary}</p>
+                            </article>
+                        </Col>
+                    ))}
+                    <div id="postListEnd"></div>
+                </Row>
+            </Container>
+        </>
     );
-  }
-
-  if (noposts) {
-    return (
-      <>
-        <Container>
-          <Row>
-            <p>Non ci sono ancora post disponibili!</p>
-          </Row>
-        </Container>
-      </>
-    );
-  }
-
-  return (
-    <>
-      <Container className="post-list">
-        <Row>
-          {posts.map((post) => (
-            <Col xs={12} lg={6} key={post.id}>
-              <article>
-                <figure>
-                  <Counter
-                    data-like={post.likes}
-                    data-comments={post.total_comments}
-                    data-time-to-read={post.minutes_to_read}
-                  />
-                  <img src={post.image} alt="" width="410" loading="lazy" />
-                  <h2>{post.title}</h2>
-                </figure>
-                <div className="author">
-                  <a
-                    rel="author"
-                    href={post.author.url}
-                    className="author__avatar"
-                  >
-                    <figure>
-                      <img
-                        src={post.author.avatar}
-                        alt=""
-                        width="40"
-                        loading="lazy"
-                      />
-                    </figure>
-                    <span>{post.author.name}</span>
-                  </a>
-                  <time>{formatDate(post.date_published)}</time>
-                </div>
-                <p>{post.summary}</p>
-              </article>
-            </Col>
-          ))}
-          <div id="postListEnd"></div>
-        </Row>
-      </Container>
-    </>
-  );
 }
