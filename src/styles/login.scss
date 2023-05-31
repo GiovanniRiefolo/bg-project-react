@@ -1,0 +1,48 @@
+@import "colors";
+@import "@fortawesome/fontawesome-free/css/fontawesome.min.css";
+@import "@fortawesome/fontawesome-free/css/regular.min.css";
+
+.login-form {
+  max-width: 340px;
+  margin: 0 auto;
+  padding: 32px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+
+  & .row {
+    margin: 0 0 16px;
+  }
+
+  & label {
+    
+    width: 100%;
+  }
+
+  & input[type="text"],
+  & input[type="password"],
+  & select {
+    padding: 8px;
+    height: 48px;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+
+  & button[type="submit"] {
+    padding: 16px;
+    border: none;
+    background-color: $primary-color;
+    color: white;
+    font-size: clamp(1.25em, 8vw, 1.5em);
+    &:hover {
+      box-shadow: 0 0 0 0 $secondary-color;
+    }
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

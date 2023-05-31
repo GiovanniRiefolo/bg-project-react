@@ -1,4 +1,26 @@
-// import FontAwesome Free
-// @fortawesome/fontawesome-free
-@import "./fontawesome/scss/fontawesome.scss";
-@import "./fontawesome/scss/solid.scss";
+// Define custom font directory path
+$font-base-url: "../../src/fonts";
+$body-font-size:  clamp(1em, 2vw, 1.15em);
+
+@mixin font-face(
+    $name,
+    $directory,
+    $filename,
+    $style,
+    $weight
+    ){
+        @font-face{
+            font:{
+                family: $name;
+                weight: $weight;
+                style: $style;
+                display: fallback;
+                stretch: 100%;
+            }
+            src: local($name), url($font-base-url + "/#{$directory}/" + $filename + ".ttf") format("truetype");
+        }
+}
+
+@include font-face('Montserrat', 'montserrat', 'Montserrat-VariableFont_wght', regular, 100 900);
+@include font-face('Josefin', 'josefin', 'JosefinSans-VariableFont_wght', regular, 100 900);
+
