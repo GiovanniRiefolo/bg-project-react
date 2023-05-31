@@ -21,7 +21,7 @@ export default function PostList() {
   // observing user position to load more content
   const observerTarget = useRef(null);
   let currentPosts = 6;
-  
+
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
@@ -31,7 +31,6 @@ export default function PostList() {
             tempIndex = currentPosts;
             currentPosts += 6;
           }
-          console.log("tempIndex " + tempIndex, "currentPosts " + currentPosts);
           fetchPosts(tempIndex, currentPosts);
         }
       },
@@ -39,7 +38,6 @@ export default function PostList() {
         threshold: 1.0,
       }
     );
-    console.log("observing...");
 
     if (observerTarget.current) {
       observer.observe(observerTarget.current);
@@ -64,10 +62,12 @@ export default function PostList() {
           if (posts.length === 0) {
             setPosts(data.items.slice(start, end));
             setTotalRecords(data.total_records);
-          } else if(posts.length <= totalRecords) {
-            setPosts(prevPosts => prevPosts.concat(data.items.slice(start, end)));
+          } else if (posts.length <= totalRecords) {
+            setPosts((prevPosts) =>
+              prevPosts.concat(data.items.slice(start, end))
+            );
           } else {
-            return
+            return;
           }
           setIsLoading(false);
         }, randomTime);
@@ -79,8 +79,9 @@ export default function PostList() {
 
   const formatDate = (value) => {
     let _date = new Date(value);
-    if (!_date){
-        return
+    // hiding dates with wrong format
+    if (_date == "Invalid Date") {
+      return;
     }
     return _date.toLocaleDateString("en-EN", {
       year: "numeric",
@@ -133,13 +134,19 @@ export default function PostList() {
                     </figure>
                     <span>{post.author.name}</span>
                   </a>
-                  <time>{formatDate(post.date_published)}</time>
+                  {formatDate(post.date_published) ? (
+                    <time>{formatDate(post.date_published)}</time>
+                  ) : (
+                    ""
+                  )}
                 </div>
                 <p>{post.summary}</p>
               </article>
             </Col>
           ))}
-          <p ref={observerTarget} style={{textAlign: 'center'}}>Thanks to read us!</p>
+          <p ref={observerTarget} style={{ textAlign: "center" }}>
+            Thanks to read us!
+          </p>
         </Row>
       </Container>
       {isLoading ? (
