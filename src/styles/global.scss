@@ -10,6 +10,10 @@
   background-color: $primary-color;
 }
 
+*:focus-visible{
+  outline: 2px solid $secondary-color;
+}
+
 h1,
 h2,
 h3 {
@@ -36,7 +40,7 @@ li {
   &__title {
     margin: 0 0 64px;
     text-align: center;
-    text-decoration: 1px wavy underline $primary-color;
+    text-decoration: 2px wavy underline $primary-color;
     text-decoration-skip-ink: none;
     text-underline-offset: 4px;
   }

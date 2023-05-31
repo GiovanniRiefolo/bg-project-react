@@ -1,5 +1,5 @@
-import Header from "./../components/header";
-import PostList from "./../components/post_list";
+import Header from "../components/header";
+import PostList from "../components/post_list";
 import PageTitle from "../components/page_title";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -8,7 +8,6 @@ import {
   faFireFlameCurved,
   faComment,
   faClock,
-  faChevronDown,
   faUser,
   faFaceSmile,
 } from "@fortawesome/free-solid-svg-icons";
@@ -16,11 +15,11 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 
 library.add(fas, faFireFlameCurved, faComment, faClock);
 
-export default function Headers() {
+export default function Features() {
   return (
     <>
       <Header />
-      <PageTitle title="Header Styles" />
+      <PageTitle title="Features" /> 
       <PostList />
     </>
   );

@@ -5,6 +5,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Nav from "react-bootstrap/Nav";
+import NavDropdown from "react-bootstrap/NavDropdown";
 
 import "./../styles/header.scss";
 
@@ -20,28 +21,34 @@ export default function Header() {
   });
 
   const logout = () => {
-    localStorage.removeItem('token')
-    localStorage.removeItem('refreshToken')
-    localStorage.removeItem('username')
-  }
+    localStorage.removeItem("token");
+    localStorage.removeItem("refreshToken");
+    localStorage.removeItem("username");
+  };
 
   return (
     <header>
-      <Container>
+      <Container fluid>
         <Row>
-          <Col></Col>
-          <Col className="logo">
-            <a href="/">LOGO</a>
+          <Col md={12} lg={4}></Col>
+          <Col md={12} lg={4}>
+            <div className="logo">
+              <a href="/">LOGO</a>
+            </div>
           </Col>
-          <Col className="user">
-            <div>
+          <Col md={12} lg={4}>
+            <div className="user">
               {loggedUser ? (
                 <>
                   <FontAwesomeIcon icon="fa-solid fa-face-smile" />
                   <p className="username">
                     Bentornato {username}{" "}
                     <small>
-                      (<a href="/login" onClick={logout}>Logout</a>)
+                      (
+                      <a href="/login" onClick={logout}>
+                        Logout
+                      </a>
+                      )
                     </small>
                   </p>
                 </>
@@ -64,14 +71,18 @@ export default function Header() {
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/headers">
-                Header Styles
-              </Nav.Link>
+              <NavDropdown title="Header Styles">
+                <NavDropdown.Item as={NavLink} to="/headers">
+                  Header Style #1
+                </NavDropdown.Item>
+              </NavDropdown>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/posts">
-                Post Fatures
-              </Nav.Link>
+              <NavDropdown title="Post Features">
+                <NavDropdown.Item as={NavLink} to="/posts">
+                  Post Feature #1
+                </NavDropdown.Item>
+              </NavDropdown>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link as={NavLink} to="/tags">
@@ -82,6 +93,13 @@ export default function Header() {
               <Nav.Link as={NavLink} to="/authors">
                 Authors
               </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <NavDropdown title="Features">
+                <NavDropdown.Item as={NavLink} to="/features">
+                  Feature #1
+                </NavDropdown.Item>
+              </NavDropdown>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link as={NavLink} to="/contact">

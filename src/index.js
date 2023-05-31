@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import SSRProvider from 'react-bootstrap/SSRProvider';
 // Routes
 import Root from "./routes/root";
 import Contact from "./routes/contact";
@@ -9,6 +10,7 @@ import Headers from "./routes/headers";
 import Tags from "./routes/tags";
 import Authors from "./routes/authors";
 import Login from "./routes/login";
+import Features from "./routes/features";
 // Error pages
 import Error404 from "./routes/404";
 // Styles
@@ -47,6 +49,11 @@ const router = createBrowserRouter([
     errorElement: <Error404 />,
   },
   {
+    path: "/features",
+    element: <Features />,
+    errorElement: <Error404 />,
+  },
+  {
     path: "/login",
     element: <Login />,
     errorElement: <Error404 />,
@@ -54,7 +61,9 @@ const router = createBrowserRouter([
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
-    <RouterProvider router={router} />
-  </React.StrictMode>
+  <SSRProvider>
+    <React.StrictMode>
+      <RouterProvider router={router} />
+    </React.StrictMode>
+  </SSRProvider>
 );

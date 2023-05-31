@@ -54,14 +54,13 @@ export default function Contact() {
               <label htmlFor="evaluation">
                 Do you like the job I've done? *
               </label>
-              <select id="evaluation">
-                <option value="moltissimo">Absolutely awesome!</option>
-                <option value="molto">Well done..</option>
-                <option value="normale">
-                  I didn't expect worst thant that
-                </option>
-                <option value="poco">Meh...</option>
-                <option value="terribile">We will let you know</option>
+              <select id="evaluation" required>
+                <option value="" selected disabled hidden>Pick an answer!</option>
+                <option value="awesome">Absolutely awesome!</option>
+                <option value="good">Well done..</option>
+                <option value="normal">I didn't expect worse than that</option>
+                <option value="not good">Meh...</option>
+                <option value="terrible">We will let you know</option>
               </select>
             </Col>
           </Row>
@@ -69,7 +68,7 @@ export default function Contact() {
             <Col>
               <fieldset>
                 <div className="contact-form__checkbox">
-                  <input type="checkbox" id="privacy" required />
+                  <input type="checkbox" id="privacy" />
                   <label htmlFor="privacy">
                     I hereby consent to the processing of the personal data that
                     I have provided and declare that you should delede them ASAP

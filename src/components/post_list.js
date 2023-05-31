@@ -55,7 +55,12 @@ export default function PostList() {
     setIsLoading(true);
     // randomize latency in server response from 1s to 2s
     const randomTime = Math.floor(Math.random() * 2000) + 1000;
-    fetch("http://localhost:3030/posts", { method: "GET" })
+    fetch("http://localhost:3030/posts", { 
+      method: "GET",
+      headers: {
+        Authorization: 'Bearer ' + localStorage.getItem('token')
+      }
+    })
       .then((response) => response.json())
       .then((data) => {
         setTimeout(() => {
@@ -107,7 +112,7 @@ export default function PostList() {
       <Container className="post-list">
         <Row>
           {posts.map((post) => (
-            <Col xs={12} lg={6} key={post.id}>
+            <Col xl={12} xxl={6} key={post.id}>
               <article>
                 <figure>
                   <Counter

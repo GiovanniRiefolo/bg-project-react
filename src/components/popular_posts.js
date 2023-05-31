@@ -14,6 +14,9 @@ export default function PopularPosts() {
   useEffect(() => {
     fetch("http://localhost:3030/posts", {
       method: "GET",
+      headers: {
+        Authorization: 'Bearer ' + localStorage.getItem('token')
+      }
     })
       .then((response) => response.json())
       .then((data) => {

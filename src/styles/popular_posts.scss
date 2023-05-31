@@ -3,7 +3,7 @@
 aside {
   position: sticky;
   top: 64px;
-  
+
   & h2 {
     font-size: clamp(1.25em, 6vw, 1.5em);
     & span {
@@ -20,7 +20,6 @@ aside {
     & figure {
       position: relative;
       width: 100%;
-      height: 100%;
       aspect-ratio: 1;
       margin: 0;
       box-shadow: 2px 8px 20px -8px rgba(0, 0, 0, 0.5);
@@ -60,12 +59,20 @@ aside {
       bottom: -32px;
 
       & button[data-bs-target] {
-        background-color: $primary-color;
-        width: 24px;
+        background-color: black;
+        width: 6px;
         height: 3px;
         margin: 0 6px;
         border-radius: 8px;
         border: none;
+        opacity: .25;
+        transition: width .35s ease-in-out;
+        
+        &.active {
+          width: 24px;
+          background-color: $primary-color;
+          opacity: 1;
+        }
       }
     }
     &-control-prev,
@@ -74,7 +81,7 @@ aside {
       bottom: -32px;
       height: 32px;
       color: #212121;
-      font-size: 1.25rem;
+      font-size: 1rem;
 
       &:hover,
       &:active,
