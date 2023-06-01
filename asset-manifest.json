@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bg-project-react/static/css/main.eac6ad54.css",
-    "main.js": "/bg-project-react/static/js/main.81745a0e.js",
+    "main.js": "/bg-project-react/static/js/main.9a00c8c9.js",
     "static/media/fa-solid-900.ttf": "/bg-project-react/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/Montserrat-VariableFont_wght.ttf": "/bg-project-react/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
     "static/media/fa-solid-900.woff2": "/bg-project-react/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -11,10 +11,10 @@
     "static/media/loading.svg": "/bg-project-react/static/media/loading.dfcd827e47f63af33921fb2590a65572.svg",
     "index.html": "/bg-project-react/index.html",
     "main.eac6ad54.css.map": "/bg-project-react/static/css/main.eac6ad54.css.map",
-    "main.81745a0e.js.map": "/bg-project-react/static/js/main.81745a0e.js.map"
+    "main.9a00c8c9.js.map": "/bg-project-react/static/js/main.9a00c8c9.js.map"
   },
   "entrypoints": [
     "static/css/main.eac6ad54.css",
-    "static/js/main.81745a0e.js"
+    "static/js/main.9a00c8c9.js"
   ]
 }
