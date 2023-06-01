@@ -15,7 +15,6 @@ export default function PostList() {
 
   useEffect(() => {
     fetchPosts(0, currentPosts);
-    console.log("i fire once");
   }, [currentPosts]);
 
   // observing user position to load more content
