@@ -6,12 +6,12 @@
 
 ## Initialization
 
-1. Run the project
-```
-npm run start
-```
-
-2. Run json-server to start fetching content run:
+1. Run json-server to start fetching content run:
 ```
 node server.js
+```
+
+2. Run the project
+```
+npm run start
 ```

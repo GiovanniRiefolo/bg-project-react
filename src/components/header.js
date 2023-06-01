@@ -33,7 +33,7 @@ export default function Header() {
           <Col md={12} lg={4}></Col>
           <Col md={12} lg={4}>
             <div className="logo">
-              <a href="/">LOGO</a>
+              <a href="/bg-project-react/">LOGO</a>
             </div>
           </Col>
           <Col md={12} lg={4}>
@@ -45,7 +45,7 @@ export default function Header() {
                     Bentornato {username}{" "}
                     <small>
                       (
-                      <a href="/login" onClick={logout}>
+                      <a href="/bg-project-react/login" onClick={logout}>
                         Logout
                       </a>
                       )
@@ -56,7 +56,7 @@ export default function Header() {
                 <>
                   <FontAwesomeIcon icon="fa-solid fa-user" />
                   <p>
-                    Ciao! <a href="/login">Accedi</a> o <a>Registrati</a>
+                    Ciao! <a href="/bg-project-react/login">Accedi</a> o <a>Registrati</a>
                   </p>
                 </>
               )}
@@ -66,7 +66,7 @@ export default function Header() {
         <Row>
           <Nav>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/">
+              <Nav.Link as={NavLink} to="/bg-project-react/">
                 Home
               </Nav.Link>
             </Nav.Item>
@@ -85,24 +85,24 @@ export default function Header() {
               </NavDropdown>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/tags">
+              <Nav.Link as={NavLink} to="/bg-project-react/tags">
                 #Tag
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/authors">
+              <Nav.Link as={NavLink} to="/bg-project-react/authors">
                 Authors
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <NavDropdown title="Features">
-                <NavDropdown.Item as={NavLink} to="/features">
+                <NavDropdown.Item as={NavLink} to="/bg-project-react/features">
                   Feature #1
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link as={NavLink} to="/contact">
+              <Nav.Link as={NavLink} to="/bg-project-react/contact">
                 Contact
               </Nav.Link>
             </Nav.Item>

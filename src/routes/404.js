@@ -10,7 +10,7 @@ export default function ErrorPage() {
       <p>La pagina che stavi cercando non c'è più &#128517;.</p>
       <p>
         <i>{error.statusText || error.message}?</i> No problem. Torna alla{" "}
-        <a href="/">Home</a>
+        <a href="/bg-project-react/">Home</a>
       </p>
     </div>
   );
