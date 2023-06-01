@@ -48,7 +48,7 @@ export default function Login() {
         } else {
           console.log("utente già loggato");
         }
-        window.location = "/";
+        window.location = "/bg-project-react/";
       })
       .catch((error) => {
         console.log(error.message);

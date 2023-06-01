@@ -19,42 +19,42 @@ import "./styles/global.scss";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/bg-project-react/",
     element: <Root />,
     errorElement: <Error404 />,
   },
   {
-    path: "/contact",
+    path: "/bg-project-react/contact",
     element: <Contact />,
     errorElement: <Error404 />,
   },
   {
-    path: "/posts",
+    path: "/bg-project-react/posts",
     element: <Posts />,
     errorElement: <Error404 />,
   },
   {
-    path: "/tags",
+    path: "/bg-project-react/tags",
     element: <Tags />,
     errorElement: <Error404 />,
   },
   {
-    path: "/authors",
+    path: "/bg-project-react/authors",
     element: <Authors />,
     errorElement: <Error404 />,
   },
   {
-    path: "/headers",
+    path: "/bg-project-react/headers",
     element: <Headers />,
     errorElement: <Error404 />,
   },
   {
-    path: "/features",
+    path: "/bg-project-react/features",
     element: <Features />,
     errorElement: <Error404 />,
   },
   {
-    path: "/login",
+    path: "/bg-project-react/login",
     element: <Login />,
     errorElement: <Error404 />,
   },
