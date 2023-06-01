@@ -1,7 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import SSRProvider from 'react-bootstrap/SSRProvider';
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Navigate,
+} from "react-router-dom";
+import SSRProvider from "react-bootstrap/SSRProvider";
 // Routes
 import Root from "./routes/root";
 import Contact from "./routes/contact";
@@ -18,6 +22,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/global.scss";
 
 const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Navigate to="/bg-project-react/" />,
+  },
   {
     path: "/bg-project-react/",
     element: <Root />,
